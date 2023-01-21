@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "typescript": "^4.9.4"
+  },
+  "scripts": {
+    "tsc": "npx tsc"
+  },
+  "name": "biographiechokojoestar",
+  "description": "```bash\r git add .\r git commit -m \"Your Text\"\r git push --force https://github.com/FluChoko/BiographieChoko.git\r ```",
+  "version": "1.0.0",
+  "devDependencies": {},
+  "author": "",
+  "license": "ISC"
+}

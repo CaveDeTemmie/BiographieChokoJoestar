@@ -1,0 +1,48 @@
+body {
+   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+   background-color: rgb(17, 17, 17);
+   color: rgb(255, 255, 255);
+}
+
+#Haut-Page {
+   text-align: center;
+}
+
+#Info{
+   margin: 0%;
+   display: flex;
+}
+
+#Image,#Localisation,#Caracteristique,#Liens,#Esclave{
+   color: black;
+   background-color:rgb(72, 72, 72);
+   width: 25%;
+   margin: 5px;
+   padding: 5px;
+   border-radius: 10px;
+   text-align: center;
+}
+#caraclist,#Listlien{
+   text-align: left;
+}
+#Discord{
+   color: black;
+   background-color:rgb(52, 52, 78);
+   width: 50%;
+   margin-left: 25%;
+   padding-left: 15px;
+   padding-bottom: 5px;
+   border-radius: 10px;
+}
+table.tableau {
+   border-collapse: collapse;
+}
+table.tableau td,
+table.tableau th {
+   border: 2px solid rgb(255, 255, 255)
+}
+
+.tableau {
+   text-align: center;
+   margin: 0 auto;
+}
